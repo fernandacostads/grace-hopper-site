@@ -20,21 +20,21 @@ Assista no Youtube: [Em breve]
 ### Desktop
 Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![]()
 
 ### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+![]()
 
 ### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+![]()
+![]()
+![]()
 
 
 ## Mobile
 É compatível com dispositivos de todos os tamanhos e sistemas operacionais, melhorias consistentes estão sendo implementadas.
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+![]()
 
 
 
